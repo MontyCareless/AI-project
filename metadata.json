@@ -1,0 +1,6 @@
+{
+  "description": "A 'Life Simulator' application that uses the Gemini API to generate dynamic life and career scenarios for users to navigate. It features personalized AI mentoring, skill tracking, and a persistent inventory system.",
+  "prompt": "",
+  "requestFramePermissions": [],
+  "name": "Generated"
+}
